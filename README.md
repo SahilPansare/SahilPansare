@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bayesian Machine Learning**, **Reinfocement Learning**, **Computer Vision**, **Signal Processing for Fine Grain Hand Gesture Detection**
 
-- 📝 I regularly write articles on [Machine Learning](Machine Learning)
+- 📝 I regularly write articles on **Machine Learning**, **Deep Learning**
 
 - 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning**
 
