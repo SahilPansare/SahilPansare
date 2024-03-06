@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **Bayesian Machine Learning**
+- 🔭 I’m currently working on **Bayesian Machine Learning**, **Reinfocement Learning**, **Computer Vision**, **Signal Processing for Fine Grain Hand Gesture Detection**
 
 - 📝 I regularly write articles on [Machine Learning](Machine Learning)
 
