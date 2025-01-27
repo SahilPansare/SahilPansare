@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
+<h3 align="center">A passionate Machine Learning Engineer building AI Products</h3>
 
-- 🔭 I’m currently working on **Bayesian Machine Learning**, **Reinfocement Learning**, **Computer Vision**, **Signal Processing for Fine Grain Hand Gesture Detection**
+- 🔭 I’m currently working in **Stealth**
 
 - 📝 I regularly write articles on **Machine Learning**, **Deep Learning**
 
-- 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning, AI, LLMs**
 
 - 📫 How to reach me **sahil.kp1691@gmail.com**
 
