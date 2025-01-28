@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilpansare&label=Profile%20views&color=0e75b6&style=flat" alt="sahilpansare" /> </p>
 
-- 🔭 I’m currently working on [Building AI products for streamlining corporate operations](Stealth)
+- 🔭 I’m currently working on [Building AI products for streamlining corporate operations]
 
 - 💬 Ask me about **Machine Learning, LLMS, AI, Computer Vision**
 
